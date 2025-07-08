@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1752006320260,
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "descripcion": "Una novela emblemática del realismo mágico que narra la historia de la familia Buendía en el pueblo ficticio de Macondo."
+  },
+  {
+    "id": 1752006406400,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "descripcion": "La clásica obra de la literatura española que sigue las aventuras de un hidalgo que se vuelve caballero andante."
+  },
+  {
+    "id": 1752006588900,
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "descripcion": "Un cuento filosófico que explora la inocencia y la sabiduría a través del viaje de un niño pequeño."
+  }
+]
