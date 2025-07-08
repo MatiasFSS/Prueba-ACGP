@@ -1,6 +1,6 @@
-# Repositorio Prueba Técnica AC_GP
+# Repositorio Prueba Técnica ACGP
 
-Este repositorio contiene la solución a la prueba técnica AC_GP.
+Este repositorio contiene la solución a la prueba técnica ACGP.
 
 - Ejercicios 1 y 2: realizados con JavaScript puro.  
 - Ejercicio 3: desarrollado con React (JavaScript) en frontend y Node.js + Express en backend.
